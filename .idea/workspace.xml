@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="" />
+    <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/15about_type/15about_type.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/15about_type/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/16struct.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_int/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_int/struct_int.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_new/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_new/struct_new.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +41,17 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YvCuNzQEsEoq5upQuAsK1jMBTd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
@@ -71,5 +90,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
