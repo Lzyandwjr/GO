@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/15about_type/15about_type.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/15about_type/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/16struct.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_int/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_int/struct_int.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_new/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_new/struct_new.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/1160.Spelling words/1160.Spelling_words.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/1160.Spelling words/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/836 Rectangle overlap/836_Rectangle_overlap.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/836 Rectangle overlap/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/16struct/16struct.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/16struct/16struct.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/16struct/struct_new/struct_new.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/github.com/16struct/struct_new/struct_new.exe" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +56,7 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,7 +93,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
