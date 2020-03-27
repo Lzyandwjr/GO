@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/17.16.Masseur/17.16.Masseur.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/17.16.Masseur/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/892.SurfaceArea of  ​​the three-dimensional body/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/999.Available catch for car/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/914.Card grouping/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/LeeCode/409Longest Palindrome/409Longest_Palindrome.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/LeeCode/409.Longest Palindrome/409Longest_Palindrome.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/LeeCode/409Longest Palindrome/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/LeeCode/409.Longest Palindrome/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/LeeCode/836 Rectangle overlap/836_Rectangle_overlap.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/LeeCode/836.Rectangle overlap/836_Rectangle_overlap.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/LeeCode/836 Rectangle overlap/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Interview/LeeCode/836.Rectangle overlap/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
