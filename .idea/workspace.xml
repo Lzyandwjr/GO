@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/820.Compression encoding of words/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/1162.The Map Analysis/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/62.The Last number of the circle/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,10 +51,13 @@
     <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="go.vendoring.notification.had.been.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Interview/LeeCode/62.The Last number of the circle" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Go\GO\Interview\LeeCode\62.The Last number of the circle" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Go\GO\src\github.com\17Method\01Method" />
     </key>
