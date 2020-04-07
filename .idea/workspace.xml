@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/1111.Nesting depth of valid parentheses/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/289.Game of Life/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/18struct&amp;&amp;json/18struct__json.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/18struct&amp;&amp;json/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/01.07.Rotation matrix/01.07.Rotation_matrix.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/01.07.Rotation matrix/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/72.Min Distance/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
