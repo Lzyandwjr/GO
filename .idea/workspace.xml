@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="567f4a75-49f9-4667-9244-c3d4c9265c7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/13.The robot's range of motivation/man.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/151.Rever words/151.Rever_words.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/151.Rever words/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interview/LeeCode/22.Kuohao Shengcheng/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DCSS/handler/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DCSS/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DCSS/static/view/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +59,12 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Go\GO\src" />
+      <recent name="F:\Go\GO\src\github.com\17Method\01Method" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Go\GO\Interview\LeeCode\62.The Last number of the circle" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Go\GO\src\github.com\17Method\01Method" />
     </key>
   </component>
   <component name="RunDashboard">
